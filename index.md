@@ -12,7 +12,6 @@ A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activatio
 
 ## Features
 
--   **HWID (Digital License)** Method to Permanently Activate Windows
 -   **Ohook** Method to Permanently Activate Office
 -   **KMS38** Method to Activate Windows/Server Till the Year 2038
 -   **Online KMS** Method to Activate Windows/Server/Office Till 180 Days (Lifetime With Renewal Task)
@@ -23,6 +22,7 @@ A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activatio
 -   Available in All In One and Separate Files Version
 -   Fully Open Source and Based on Batch Script
 -   Fewer Antivirus Detections
+~~-   **HWID (Digital License)** Method to Permanently Activate Windows~~
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ Last Release - v2.0 (25-Sep-2023)\
 
 ------------------------------------------------------------------------
 
-**Note: Microsoft servers are currently rejecting HWID activation requests when activating through MAS, we're checking what's going on now. Use the KMS38 activation option for now.**
+**Note: Microsoft is now rejecting activation requests when activating using HWID, this change is likely permanent (though existing licenses are fine, and will remain activated). Use the KMS38 activation option moving forward.**
 
 ## Download / How to use it?
 
